@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/vidalcata02-commits/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/vidalcata02-commits/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/vidalcata02-commits/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/vidalcata02-commits/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/vidalcata02-commits/legion-del-mal?`&cacheSeconds=60`)
 
 # 🦹‍♂️ La Legión del Mal
 
